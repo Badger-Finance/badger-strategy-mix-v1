@@ -231,8 +231,5 @@ If you are using Ganache to fork a network, then you may have issues with the bl
 # Resources
 
 - Example Strategy https://github.com/Badger-Finance/wBTC-AAVE-Rewards-Farm-Badger-V1-Strategy
-- Badger Builders Discord https://discord.gg/Tf2PucrXcE
-- Badger [Discord channel](https://discord.gg/phbqWTCjXU)
-- Yearn [Discord channel](https://discord.com/invite/6PNv2nF/)
-- Brownie [Gitter channel](https://gitter.im/eth-brownie/community)
+- Badger [Discord channel](https://discord.gg/badgerdao)
 - Alex The Entreprenerd on [Twitter](https://twitter.com/GalloDaSballo)
